@@ -1,0 +1,27 @@
+.about-body{
+    /* border: 3px solid green; */
+    height: 100vh;
+    padding: 80px 200px 0px 200px
+}
+
+.about-child1 p{
+    font-family: 'Poppins', monospace;
+}
+
+/* .about-child1 p .free-tag{
+    
+} */
+
+.free-tag{
+    font-family: 'Poppins', monospace;
+    font-size: 3em;
+    margin: 0;
+}
+
+@media (max-width: 800px) {
+    .about-body{
+        /* border: 3px solid green; */
+        height: 100vh;
+        padding: 40px
+    }
+}

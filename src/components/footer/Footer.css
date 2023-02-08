@@ -1,0 +1,40 @@
+.footer {
+   position: relative;
+   bottom: 0;
+   width: 100%;
+   /* height: 150px;   Height of the footer */
+   background: #2B4FDF;
+}
+
+.footer-top{
+   padding: 40px 40px 0px 40px;
+   /* border: 2px black solid; */
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.links {
+   color: white;
+   text-decoration: none;
+}
+
+.footer p {
+   color: white;
+   font-family: 'Poppins', monospace;
+}
+
+.footer-bottom{
+   padding-bottom: 40px;
+   padding-left: 40px;
+   padding-right: 40px;
+}
+.footer-top-child1{
+}
+
+.footer-top-child2{
+}
+
+.span-color {
+   color: red;
+}

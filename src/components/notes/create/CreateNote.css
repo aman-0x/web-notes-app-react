@@ -1,0 +1,16 @@
+.create-note-body{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.create-note-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.create-note-button{
+    margin: 5px;
+    margin-left: auto;
+}

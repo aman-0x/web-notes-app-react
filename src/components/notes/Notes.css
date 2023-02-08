@@ -1,0 +1,17 @@
+.notes-body{
+    /* border: 3px solid green; */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+
+.create-note{
+    display: flex;
+    background-color: #f9f9f9;
+    box-shadow: 1px 1px 1px 1px rgb(191, 191, 191);
+    /* border: 3px solid green; */
+    border-radius: 10px;
+}
